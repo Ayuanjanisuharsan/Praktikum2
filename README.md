@@ -10,7 +10,10 @@
 5. Kondisi **False** maka bandingkan nilai variable **B** dengan **C** 
 
 **Flowchart Program**
+https://github.com/ayuanjani1234/Praktikum2/blob/master/latihan1/flowchart1.jpg
 
+**pict Program**
+https://github.com/ayuanjani1234/Praktikum2/blob/master/latihan1/Pict1.png
 
 **Code Program Lengkap:**
 ```C++
@@ -54,7 +57,10 @@ int main(){
 6. Kondisi **False** maka bandingkan nilai variable **B** dengan **C**
 
 **Flowchart Program**
+https://github.com/ayuanjani1234/Praktikum2/blob/master/latihan2/flowchart2.jpg
 
+**pict program**
+https://github.com/ayuanjani1234/Praktikum2/blob/master/latihan2/Pict2.png
 
 **Code program lengkap**
 ```C++
