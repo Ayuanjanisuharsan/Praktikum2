@@ -50,7 +50,7 @@ int main(){
 
 **Alur algoitma**
 1. Mendeklarasikan variable int A, B, C, D sebagai variable input
-2. Membaca input Dari keyboard cin >> A >> B >> C 
+2. Membaca input Dari keyboard cin >> A >> B >> C >> D
 3. Membandingkan nilai variable **A** dengan **B**
 4. Kondisi **True** maka bandingkan nilai variable **A** dengan **C**
 5. Kondisi **True** maka bandingkan nilai variable **C** dengan **D**
